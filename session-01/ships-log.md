@@ -52,3 +52,7 @@ coastal areas we could chart from the ship, but it is better than
 nothing.
 
 ![Signature of Rory Barbarosa](../media/captains-signature.png)
+
+# Captain's Map of The Isle of Dread
+
+![Map](../media/captains-map.png)
